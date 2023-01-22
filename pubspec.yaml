@@ -1,8 +1,6 @@
 name: play_integrity_flutter
 description: A new Flutter plugin for implement Play Integrity api in android.
 version: 0.0.1
-authors:
-  - amitkumar9717291746@gmail.com
 homepage: https://github.com/amitkumar9717291746/play_integrity_flutter.git
 
 environment:
